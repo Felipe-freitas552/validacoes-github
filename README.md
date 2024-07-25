@@ -1,6 +1,6 @@
 # validacoes-github
 Validação de CPF
-Descrição:
+##Descrição:
 Este projeto consiste em uma página HTML simples que permite a validação de números de CPF brasileiros. O código é dividido em três arquivos:
 
 index.html: Arquivo principal que contém a estrutura HTML da página.
@@ -39,6 +39,16 @@ Observações:
 
 Este é um exemplo básico e pode ser expandido com funcionalidades adicionais, como formatação do CPF, verificação de campos obrigatórios, entre outras.
 A validação do CPF deve ser implementada corretamente no arquivo cpf.js para garantir a precisão dos resultados.
+
 Necessidades:
 
 Um navegador web para abrir o arquivo index.html.
+* [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [<code><img height="32" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg" alt="Git"/></code>](https://git-scm.com/)
+* [<code><img height="32" src="https://blog.netscandigital.com/wp-content/uploads/2023/07/O-que-e-o-Google-Bard.png" alt="Bard"/></code>](https://bard.google.com/chat?hl=pt)
+* [<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudio"/></code>](https://code.visualstudio.com/)
+* [<code><img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>](https://github.com/)
+* [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Css3"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [<code><img height="32" src="https://i.pcmag.com/imagery/reviews/05GF8sMpHfawiyKgGnrgf7X-8..v1665503374.jpg" alt="canva"/></code>](https://www.techtudo.com.br/tudo-sobre/canva/)
+tem menu de contexto
