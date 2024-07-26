@@ -1,4 +1,5 @@
-# validacoes-github
+# Olá, me chamo Felipe André de Freitas
+ validacoes-github
 Validação de CPF
 ##Descrição:
 Este projeto consiste em uma página HTML simples que permite a validação de números de CPF brasileiros. O código é dividido em três arquivos:
@@ -8,7 +9,7 @@ cpf.css: Arquivo CSS para estilização opcional (não incluído nesse exemplo).
 cpf.js: Arquivo JavaScript responsável pela lógica de validação do CPF.
 Estrutura do Código:
 
-index.html:
+ **index.html:**
 
 <!DOCTYPE html>: Declara o tipo de documento como HTML5.
 <html></html>: Elemento raiz do documento HTML.
@@ -24,12 +25,12 @@ index.html:
 <input type="text" id="cpf" name="cpf" maxlength="14">: Campo de entrada para o CPF, limitado a 14 caracteres.
 <button type="submit">Validar</button>: Botão para enviar o formulário e validar o CPF.
 <p id="message"></p>: Elemento parágrafo para exibir a mensagem de resultado da validação.
-<script src='cpf.js'></script>: Inclui o arquivo JavaScript com a lógica de validação.
-cpf.js:
+<script src='cpf.js'></script>: Inclui o arquivo JavaScript com a lógica de validação
 
+# cpf.js:
 Este arquivo deve conter a função JavaScript responsável por validar o CPF digitado. A lógica de validação não está incluída neste exemplo, mas geralmente envolve cálculos matemáticos sobre os dígitos do CPF.
-Uso:
 
+# Uso:8
 Crie os arquivos index.html, cpf.css (opcional) e cpf.js.
 Preencha o arquivo cpf.js com a lógica de validação do CPF.
 Abra o arquivo index.html em um navegador web.
@@ -40,8 +41,7 @@ Observações:
 Este é um exemplo básico e pode ser expandido com funcionalidades adicionais, como formatação do CPF, verificação de campos obrigatórios, entre outras.
 A validação do CPF deve ser implementada corretamente no arquivo cpf.js para garantir a precisão dos resultados.
 
-Necessidades:
-
+# Necessidades:
 Um navegador web para abrir o arquivo index.html.
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [<code><img height="32" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2023/01/asset_upload_file97293_255583.jpg" alt="Git"/></code>](https://git-scm.com/)
