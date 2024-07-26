@@ -4,6 +4,8 @@ Validação de CPF
 ## Descrição:
 Este projeto consiste em uma página HTML simples que permite a validação de números de CPF brasileiros. O código é dividido em três arquivos:
 
+![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
+
 **index.html:** Arquivo principal que contém a estrutura HTML da página.
 cpf.css: Arquivo CSS para estilização opcional (não incluído nesse exemplo).
 cpf.js: Arquivo JavaScript responsável pela lógica de validação do CPF.
