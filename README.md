@@ -41,6 +41,8 @@ Digite um número de CPF no campo de entrada e clique no botão "Validar".
 A mensagem de resultado da validação será exibida abaixo do formulário.
 Observações:
 
+![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
+
 Este é um exemplo básico e pode ser expandido com funcionalidades adicionais, como formatação do CPF, verificação de campos obrigatórios, entre outras.
 A validação do CPF deve ser implementada corretamente no arquivo cpf.js para garantir a precisão dos resultados.
 
