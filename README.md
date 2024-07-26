@@ -41,7 +41,7 @@ Observações:
 Este é um exemplo básico e pode ser expandido com funcionalidades adicionais, como formatação do CPF, verificação de campos obrigatórios, entre outras.
 A validação do CPF deve ser implementada corretamente no arquivo cpf.js para garantir a precisão dos resultados.
 
-! [Demonstração](img/Gravação-de-Tela-2024-07-25-123105.gif)
+ [Vídeo de demonstração](gravacao.gif)
 
 # Necessidades:
 Um navegador web para abrir o arquivo index.html.
