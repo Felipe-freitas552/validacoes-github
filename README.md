@@ -66,6 +66,8 @@ Um navegador web para abrir o arquivo index.html.
 
 ![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
 
+# Readme de email.js
+
 ## Descrição
 Este código contém uma função JavaScript chamada checarEmail() que valida um endereço de email inserido em um formulário HTML.
 
