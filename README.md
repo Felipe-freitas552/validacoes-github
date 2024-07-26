@@ -63,3 +63,50 @@ Um navegador web para abrir o arquivo index.html.
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Css3"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [<code><img height="32" src="https://i.pcmag.com/imagery/reviews/05GF8sMpHfawiyKgGnrgf7X-8..v1665503374.jpg" alt="canva"/></code>](https://www.techtudo.com.br/tudo-sobre/canva/)
+
+![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
+
+## Descrição
+Este código contém uma função JavaScript chamada checarEmail() que valida um endereço de email inserido em um formulário HTML.
+
+## Funcionalidade
+A função verifica se o campo de email do primeiro formulário da página está vazio ou se não contém o caractere "@" ou ".". Se qualquer uma dessas condições for verdadeira, exibe uma mensagem de alerta informando que o email é inválido e retorna false. Caso contrário, exibe uma mensagem de alerta indicando que o email foi informado e insere o valor do email em um elemento HTML com o ID "email".
+
+## Uso
+Inclusão do código: Copie o código da função checarEmail() e cole-o em um arquivo JavaScript vinculado à sua página HTML.
+Criar formulário: Crie um formulário HTML com um campo de entrada para o email.
+Associar função ao formulário: Adicione um evento onsubmit ao formulário, chamando a função checarEmail().
+Exemplo HTML
+HTML
+
+![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Validação de Email</title>
+  <script src="script.js"></script> </head>
+<body>
+  <form onsubmit="return checarEmail()">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+    <button type="submit">Enviar</button>
+  </form>
+  <p id="email"></p>
+</body>
+</html>
+
+![miau.gif](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif)
+
+## Observações
+A função assume que existe um elemento HTML com o ID "email" na página para exibir o email informado.
+A função utiliza alert para exibir mensagens, o que pode ser substituído por outras formas de feedback ao usuário.
+A função pode ser expandida para realizar validações mais complexas de endereços de email.
+Potenciais melhorias
+Implementar uma validação de email mais robusta utilizando expressões regulares.
+Substituir alert por mensagens de erro mais amigáveis.
+Adicionar feedback visual para indicar erros de validação.
+Nota: Este código é um exemplo básico de validação de email e pode ser adaptado para atender a necessidades específicas.
+
+# Autor
+Nome: Felipe Freitas Loução
