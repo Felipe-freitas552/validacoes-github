@@ -41,7 +41,7 @@ Observações:
 Este é um exemplo básico e pode ser expandido com funcionalidades adicionais, como formatação do CPF, verificação de campos obrigatórios, entre outras.
 A validação do CPF deve ser implementada corretamente no arquivo cpf.js para garantir a precisão dos resultados.
 
-! [Demonstração](img/)
+! [Demonstração](img/Gravação-de-Tela-2024-07-25-123105.gif)
 
 # Necessidades:
 Um navegador web para abrir o arquivo index.html.
@@ -53,5 +53,3 @@ Um navegador web para abrir o arquivo index.html.
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Css3"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [<code><img height="32" src="https://i.pcmag.com/imagery/reviews/05GF8sMpHfawiyKgGnrgf7X-8..v1665503374.jpg" alt="canva"/></code>](https://www.techtudo.com.br/tudo-sobre/canva/)
-tem menu de contexto
-bla bla bla
