@@ -1,16 +1,15 @@
  # validacoes-github
- Olá, me chamo Felipe André de Freitas
- validacoes-github
+ Olá, me chamo Felipe André de Freitas e vou apresentar um projeto que tem a de validar **Cpf**.
 Validação de CPF
-##Descrição:
+## Descrição:
 Este projeto consiste em uma página HTML simples que permite a validação de números de CPF brasileiros. O código é dividido em três arquivos:
 
-index.html: Arquivo principal que contém a estrutura HTML da página.
+**index.html:** Arquivo principal que contém a estrutura HTML da página.
 cpf.css: Arquivo CSS para estilização opcional (não incluído nesse exemplo).
 cpf.js: Arquivo JavaScript responsável pela lógica de validação do CPF.
 Estrutura do Código:
 
- **index.html:**
+ # index.html:
 
 <!DOCTYPE html>: Declara o tipo de documento como HTML5.
 <html></html>: Elemento raiz do documento HTML.
