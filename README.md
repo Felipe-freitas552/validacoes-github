@@ -30,7 +30,7 @@ Estrutura do Código:
 # cpf.js:
 Este arquivo deve conter a função JavaScript responsável por validar o CPF digitado. A lógica de validação não está incluída neste exemplo, mas geralmente envolve cálculos matemáticos sobre os dígitos do CPF.
 
-# Uso:8
+# Uso:
 Crie os arquivos index.html, cpf.css (opcional) e cpf.js.
 Preencha o arquivo cpf.js com a lógica de validação do CPF.
 Abra o arquivo index.html em um navegador web.
@@ -41,7 +41,11 @@ Observações:
 Este é um exemplo básico e pode ser expandido com funcionalidades adicionais, como formatação do CPF, verificação de campos obrigatórios, entre outras.
 A validação do CPF deve ser implementada corretamente no arquivo cpf.js para garantir a precisão dos resultados.
 
- [Vídeo de demonstração](gravacao.gif)
+
+
+ ![Vídeo de demonstração](gravacao.gif)
+
+
 
 # Necessidades:
 Um navegador web para abrir o arquivo index.html.
